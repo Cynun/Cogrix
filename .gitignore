@@ -1,0 +1,8 @@
+*
+!.gitignore
+
+!rawmods
+!rawmods/**
+
+!build.bat
+!LICENSE
