@@ -1,0 +1,9 @@
+##N next line
+##TPS show ticks per second
+##MSPT ms per tick
+##PLAYERCOUNT show how many players are online
+##PING show player ping
+#
+[TabList]
+	header = "#N             &a&lYOUR SERVER           #N&a&l&m    #N"
+	footer = "#N&fᴏɴʟɪɴᴇ: &e#PLAYERCOUNT &f| ᴘɪɴɢ: &e#PING#N&fᴛᴘꜱ: &e#TPS &f| ᴍꜱᴘᴛ: &e#MSPT#N"
