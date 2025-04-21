@@ -14,4 +14,7 @@
 !kubejs/server_scripts/**
 !kubejs/startup_scripts/**
 
+!config
+!config/**
+
 !LICENSE
