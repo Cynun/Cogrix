@@ -4,5 +4,15 @@
 !rawmods
 !rawmods/**
 
+!kubejs
+!kubejs/assets
+!kubejs/client_scripts
+!kubejs/server_scripts
+!kubejs/startup_scripts
+!kubejs/assets/**
+!kubejs/client_scripts/**
+!kubejs/server_scripts/**
+!kubejs/startup_scripts/**
+
 !build.bat
 !LICENSE
