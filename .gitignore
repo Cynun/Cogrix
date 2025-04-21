@@ -1,8 +1,8 @@
 *
 !.gitignore
 
-!rawmods
-!rawmods/**
+!mods
+!mods/*.jar
 
 !kubejs
 !kubejs/assets
@@ -14,5 +14,4 @@
 !kubejs/server_scripts/**
 !kubejs/startup_scripts/**
 
-!build.bat
 !LICENSE
